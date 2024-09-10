@@ -19,6 +19,10 @@ export const ContainerInfos = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+
+  @media (max-width: 850px) {
+    flex-direction: column;
+  }
 `;
 export const Card = styled.div`
   max-width: 250px;
