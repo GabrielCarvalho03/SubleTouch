@@ -8,6 +8,9 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+![image](https://github.com/user-attachments/assets/45de507e-7123-4ec5-9cb8-177c1a508d39)
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
